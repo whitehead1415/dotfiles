@@ -1,0 +1,3 @@
+#! /bin/bash
+
+optirun google-chrome-stable
