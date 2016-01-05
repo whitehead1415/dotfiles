@@ -30,7 +30,7 @@ export PATH=~/.cabal/bin:$PATH
 export PATH=~/workspace/idris/bin:$PATH
 
 #RUBY
-export PATH=/home/whitehead/.gem/ruby/2.2.0/bin/:$PATH
+export PATH=~/.gem/ruby/2.2.0/bin/:$PATH
 
 # POCKET SPHINX
 export LD_LIBRARY_PATH=/usr/local/lib
