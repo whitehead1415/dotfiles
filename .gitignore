@@ -1,0 +1,14 @@
+*
+!.gitconfig
+!.gitignore
+!.bash_profile
+!.bashrc
+!.xbindkeysrc
+!.Xdefaults
+!.xinitrc
+!.Xmodmap
+!.Xmodmap-apple
+!.xmobarrc
+!.xmonad/xmonad.hs
+!.bin/
+!.bin/*
